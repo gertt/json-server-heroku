@@ -1,16 +1,20 @@
 {
-  "posts":[
+  "register":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "username" : "user",
+      "pass": "pass",
+      "email" : "email",
+      "surnmae":"surnmae",
+      "phone":"phone",
     }
   ],
-  "comments" : [
+  "streams" : [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "tittle": "tittle",
+      "img": "sds",
+      "username": "zero_cool",
+      "url_stream": "sds"
     }
   ]
 }
