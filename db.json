@@ -5,7 +5,7 @@
       "pass": "pass",
       "email" : "email",
       "surnmae":"surnmae",
-      "phone":"phone",
+      "phone":"phone"
     }
   ],
   "streams" : [
