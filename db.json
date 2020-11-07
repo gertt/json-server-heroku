@@ -1,6 +1,7 @@
 {
   "register":[
     {
+      "id": 0,
       "username" : "user",
       "pass": "pass",
       "email" : "email",
