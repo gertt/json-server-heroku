@@ -12,8 +12,29 @@
   "streams" : [
     {
       "id": 0,
-      "tittle": "tittle",
+      "tittle": "tittle0",
       "img": "sds",
+      "username": "zero_cool",
+      "url_stream": "sds"
+    },
+    {
+      "id": 1,
+      "tittle": "tittle1",
+      "img": "https://yt3.ggpht.com/a/AATXAJxyGHIdj9W_xT_copwZI0USeFUpJcxwIdIR_t28=s900-c-k-c0x00ffffff-no-rj",
+      "username": "zero_cool",
+      "url_stream": "sds"
+    },
+    {
+      "id": 2,
+      "tittle": "tittle2",
+      "img": "https://yt3.ggpht.com/a/AATXAJxyGHIdj9W_xT_copwZI0USeFUpJcxwIdIR_t28=s900-c-k-c0x00ffffff-no-rj",
+      "username": "zero_cool",
+      "url_stream": "sds"
+    },
+    {
+      "id": 3,
+      "tittle": "tittle3",
+      "img": "https://yt3.ggpht.com/a/AATXAJxyGHIdj9W_xT_copwZI0USeFUpJcxwIdIR_t28=s900-c-k-c0x00ffffff-no-rj",
       "username": "zero_cool",
       "url_stream": "sds"
     }
