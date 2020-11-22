@@ -51,14 +51,14 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mta-africa-round.png",
       "category": "internacional",
       "url_stream": "https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8"
-    } ,
+    },
     {
       "id": 6,
       "tittle": "British Muslim TV",
       "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/British_Muslim_TV_logo.png/440px-British_Muslim_TV_logo.png",
       "category": "internacional",
       "url_stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8"
-    }
+    },
     {
       "id": 7,
       "tittle": "Eman Channel",
