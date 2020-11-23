@@ -9,6 +9,9 @@
       "phone":"phone"
     }
   ],
+  "startServer":{
+    "start": true
+    },
   "streams" : [
     {
       "id": 1,
